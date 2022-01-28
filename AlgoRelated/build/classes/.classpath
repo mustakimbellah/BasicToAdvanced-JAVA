@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="JavaApplication14/src/|OopPart/src/|AlgorithmRelated/src/|ClassWork/src/|Test/src/|Student pannel/src/|AlgoRelated/src/|HelloWorldProject/src/|Swing/src/|ATM/src/|FirstProject/src/|SwingTest/src/|Learn Java/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="AlgoRelated/src"/>
+	<classpathentry kind="src" path="AlgorithmRelated/src"/>
+	<classpathentry kind="src" path="ATM/src"/>
+	<classpathentry kind="src" path="ClassWork/src"/>
+	<classpathentry kind="src" path="FirstProject/src"/>
+	<classpathentry kind="src" path="HelloWorldProject/src"/>
+	<classpathentry kind="src" path="JavaApplication14/src"/>
+	<classpathentry kind="src" path="Learn Java/src"/>
+	<classpathentry kind="src" path="OopPart/src"/>
+	<classpathentry kind="src" path="Student pannel/src"/>
+	<classpathentry kind="src" path="Swing/src"/>
+	<classpathentry kind="src" path="SwingTest/src"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="output" path="AlgoRelated/build/classes"/>
+</classpath>
